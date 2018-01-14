@@ -1,7 +1,7 @@
 about:
-  home: http://www.gromacs.org/
-  license: GNU Lesser General Public License (LGPL)
-  summary: GROMACS is a versatile package to perform molecular dynamics.
+  home: https://github.com/hsiaoyi0504/conda_gromacs_4.5.5
+  license: MIT License
+  summary: GROMACS (http://www.gromacs.org/) is a versatile package to perform molecular dynamics. I created this to make people more easy incorporate old gromacs into applications.
 
 package:
   name: gromacs
