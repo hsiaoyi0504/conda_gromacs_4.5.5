@@ -7,3 +7,5 @@ Live version of conda package is available at https://anaconda.org/hsiaoyi0504/g
 
 ### See also
 - Conda recipes for gromacs 4.6.5 from Bioconda recipes https://github.com/bioconda/bioconda-recipes/tree/master/recipes/gromacs
+- Conda recipes for gromacs 5.1.2 from Beckstein lab https://github.com/Becksteinlab/conda-gromacs-5.1.2
+- Conda recipes for gromacs 2016 from Beckstein lab https://github.com/Becksteinlab/conda-gromacs-2016
